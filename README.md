@@ -2,7 +2,8 @@
 
 **BillyScraper** is a lightweight Python utility designed to extract item metadata from PastPerfect Online catalog records (such as the OSU Billy Ireland Cartoon Library and Museum database) and format them into a clean, ready-to-paste Markdown table row. The formatted row is automatically copied directly to your computer's clipboard so you can paste it straight into your spreadsheet or text doc.
 
-NOTE: This code was developed by a human, but validated and cleaned-up with AI assistance.
+NOTE: This code was developed by a human, but validated and clean-up with AI assistance.
+
 ---
 
 ## Features
